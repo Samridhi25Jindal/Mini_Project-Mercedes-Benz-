@@ -1,0 +1,28 @@
+
+* {
+  background-color: black;
+}
+#navbar {
+ float:right;
+ margin-top:20px;
+ padding-bottom: 0px;
+}
+.item , #lr {
+  border:1px solid black;
+  margin:8px;
+  padding:10px;
+  text-decoration: none;
+  font-size: 25px;
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+}
+.span1 {
+  font-size:28px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  color:white;
+}
+.com {
+  text-decoration: none;
+  color: white;
+}

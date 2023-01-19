@@ -1,0 +1,270 @@
+#home1 {
+  color:white;
+  font-size: larger;
+  
+}
+#content {
+  border:1px solid white;
+  padding:15px;
+  margin:10px;
+}
+#b1 {
+  padding:10px;
+  font-size: larger;
+  color:white;
+  border:3px solid white;
+  background-color: black;
+}
+#b1:hover {
+  color:black;
+  background-color: plum;
+  border:4px solid yellow;
+  font-weight: bolder;
+} 
+#listing {
+  color:white;
+  padding:20px;
+}
+#img1 {
+  height:250px;
+  width:250px;
+  padding-bottom: 0px;
+  padding-left: 60px;
+  margin-top:-5px;
+  margin-bottom:-5px;
+}
+#limo , #suv , #hatch , #road {
+  width:250px;
+  height:200px;
+}
+#limousine , #suvcar , #hatchback , #roadster {
+  margin:20px;
+  border:2px solid white;
+  padding: 20px;
+  color:white;
+
+}
+#x
+{
+  display :flex;
+  flex-wrap: wrap;
+  flex:0%;
+}
+#h {
+  margin:10px;
+  text-decoration: underline;
+  color:plum;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 200;
+}
+#land {
+  border: 1px solid black;
+  margin:10px;
+  padding:50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.p1 {
+  width:50%;
+  margin:auto;
+}
+#history{
+  text-decoration: none;
+  border: 1px solid white;
+  color: white;
+  padding: 10px;
+  margin:10px;
+  font-size: larger;
+}
+#hist {
+  border:1px dotted white;
+  padding:20px;
+  margin:10px;
+}
+#history:hover {
+  background-color: plum;
+  color:black;
+  border:4px solid yellow;
+  font-weight: bolder;
+}
+#lg {
+  height:500px;
+  width:100%;
+}
+#at {
+  color: white;
+  text-decoration: none;
+  font-size: larger;
+
+}
+.person {
+  padding: 20px;
+}
+#back {
+  padding:10px;
+  text-align: center;
+}
+#white {
+  border:2px solid white;
+  color:white;
+  text-decoration: none;
+  padding:10px;
+  font-size: larger;
+}
+#white:hover {
+  background-color: plum;
+  color:black;
+  border:4px solid yellow;
+  font-weight: bolder;
+}
+#archives {
+  color:white;
+  padding:20px;
+}
+#serve {
+  margin:10px;
+}
+#page {
+  padding-left:50px;
+  padding-right:50px;
+}
+#icon{
+  color: white;
+  font-size:40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+#arrow:hover {
+  background-color: pink;
+}
+#frm {
+  padding:50px;
+  color:white;
+  margin:auto;
+  width:50%;
+  border: 2px solid white;
+}
+#tgl {
+  color:white;
+}
+#gra {
+  color:white;
+}
+#b22 {
+  color:lightgreen;
+  padding:3px;
+  float: right;
+
+}
+.contact {
+  padding:30px;
+}
+#head {
+  color: lightskyblue;
+  text-align: center;
+  text-decoration: underline;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 10px;
+}
+#header {
+  font-size: 25px;
+  text-decoration: underline;
+  color: lightcoral;
+  font-weight: bold;
+}
+#end {
+  color: white;
+  margin:20px;
+  padding:20px;
+  width:40%;
+  float: left;
+}
+.error {
+  color:lightcoral;
+}
+#set {
+  color:white;
+  padding:40px;
+}
+#reg {
+  border:2px solid blue;
+  background-color: purple;
+  padding:15px;
+  font-size: larger;
+  font-weight: bolder;
+  text-decoration: none;
+  color: whitesmoke;
+}
+#in {
+  color:white;
+}
+#forgot {
+  padding:30px;
+}
+#pass {
+  margin:auto;
+  width:50%;
+  background-color: aqua;
+  padding:10px;
+  padding-top: 0%;
+}
+#danger {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+#front {
+  padding:40px;
+}
+#veh {
+  padding: 40px;
+}
+#try {
+  padding:40px;
+}
+#register {
+  color:white;
+  padding:40px;
+  border:2px solid white;
+  padding:40px;
+}
+#ck1 ,#ck2, #ck3 {
+  margin:10px;
+  font-size: 30px;
+  color:black;
+}
+#divide {
+  padding:30px;
+}
+#rec {
+  border:2px solid white;
+  padding:15px;
+  margin:15px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  flex-direction: row;
+}
+#maze {
+  width:50px;
+  height:50px;
+  margin: 20px;
+}
+#links {
+  color:white;
+  text-decoration: none;
+  margin:45px;
+}
+#foot {
+  padding:20px;
+}
+#how {
+  color:white;
+}
+#how:hover{
+color:aqua;
+padding:5px;
+}
